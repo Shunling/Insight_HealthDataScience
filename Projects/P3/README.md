@@ -5,7 +5,7 @@
 ### Motivation
 #### Consulting project for Curacel Systems
 
-False claim is a universal problem for all insurance companies, with health insurance dominants the market ([Healthcare Fraud Abuse review](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/DataCollection.ipynb)). This project is to demonstrate a prof of concept solution to Building AI for vetting medical insurance claims.
+False claim is a universal problem for all insurance companies, with health insurance dominants the market ([Healthcare Fraud Abuse review](https://github.com/Shunling/CapstoneProjects/blob/master/NaturalLanguageProcessingGPCR/DataCollection.ipynb)). This project is to demonstrate a proof of concept solution to Build AI for vetting medical insurance claims.
 
 
 ### Jupyter notebooks
