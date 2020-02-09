@@ -20,4 +20,5 @@ False claim is a universal problem for all insurance companies, with health insu
 
 ### Detailed story please check the [Medium Post](https://medium.com/curacel/spot-a-bug-f7278bb69f2b)
 
+[](Images/MediumPost.png)
 
