@@ -8,3 +8,12 @@ Pre-insight warmup project to use machine learning to figure out what is importa
 ### Projects/P3
 Consulting project for Curacel Systems to automate medical insurance claim processing. 
 
+### Data Challenge1B
+
+Data Challenge to investigate impact of price change on converion rate using A/B testing. Details are included in notebook:
+[notebook](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge1B/DC1B_Shunling_Guo.ipynb)
+
+### Data Challenge2C
+
+Data Challenge to solve credit card user segmentation using clustering.
+[notebook](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge2C/DC2C_Shunling_Guo.ipynb)
