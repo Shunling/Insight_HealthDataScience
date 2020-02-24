@@ -11,9 +11,9 @@ Consulting project for Curacel Systems to automate medical insurance claim proce
 ### Data Challenge1B
 
 Data Challenge to investigate impact of price change on converion rate using A/B testing. Details are included in notebook:
-[notebook](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge1B/DC1B_Shunling_Guo.ipynb)
+[check notebook link here](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge1B/DC1B_Shunling_Guo.ipynb)
 
 ### Data Challenge2C
 
-Data Challenge to solve credit card user segmentation using clustering.
-[notebook](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge2C/DC2C_Shunling_Guo.ipynb)
+Data Challenge to solve credit card user segmentation using clustering. Details are included in notebook:
+[check notebook link here](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge2C/DC2C_Shunling_Guo.ipynb)
