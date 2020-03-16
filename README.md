@@ -15,5 +15,5 @@ Data Challenge to investigate impact of price change on converion rate using A/B
 
 ### Data Challenge2C
 
-Data Challenge to solve credit card user segmentation using clustering. Details are included in notebook:
+Data Challenge to understand user behavior by solving credit card user segmentation via clustering. Details are included in notebook:
 [check notebook link here](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge2C/DC2C_Shunling_Guo.ipynb)
