@@ -20,6 +20,8 @@ False claim is a universal problem for all insurance companies, with health insu
 
 ### Presentation of this project please check: [Spot_A_Bug_Presentation](https://github.com/Shunling/Insight_HealthDataScience/blob/master/Projects/P3/Shunling_Guo_FinalDemo.pdf)
 
+### Youtube presentation for this project please check: [Spot A Bug Presentaion---Youtube](https://www.youtube.com/watch?v=PqE5rgzD96k&t=34s)
+
 ### Detailed story please check the [Medium Post](https://medium.com/curacel/spot-a-bug-f7278bb69f2b)
 
 <img src="Images/MediumPost.png" width="538" height="234">
