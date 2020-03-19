@@ -17,3 +17,8 @@ Data Challenge to investigate impact of price change on converion rate using A/B
 
 Data Challenge to understand user behavior by solving credit card user segmentation via clustering. Details are included in notebook:
 [check notebook link here](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge2C/DC2C_Shunling_Guo.ipynb)
+
+### Data Challenge1A
+
+Using Exploratory Data Analysis to explore the Video Game marketing, and find patterns that differ/special in different market, and related factors that potentially contributes to the success of games. 
+[check notebook link here](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge1A/DC1A_Shunling_Guo.ipynb)
