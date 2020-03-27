@@ -10,7 +10,7 @@ Consulting project for Curacel Systems to automate medical insurance claim proce
 
 ### Data Challenge1B
 
-Data Challenge to investigate impact of price change on converion rate using A/B testing. Details are included in notebook:
+Data Challenge to investigate impact of price change on conversion rate using A/B testing. Details are included in notebook:
 [check notebook link here](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge1B/DC1B_Shunling_Guo.ipynb)
 
 ### Data Challenge2C
