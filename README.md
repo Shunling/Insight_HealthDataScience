@@ -23,7 +23,7 @@ Data Challenge to understand user behavior by solving credit card user segmentat
 Using Exploratory Data Analysis to explore the Video Game marketing, and find patterns that differ/special in different market, and related factors that potentially contributes to the success of games. 
 [check notebook link here](https://github.com/Shunling/Insight_HealthDataScience/blob/master/DataChallenge1A/DC1A_Shunling_Guo.ipynb)
 
-### Data Challenge1A
+### Workshop 
 
 Using pyMC3 package to empower Monte Carlo Markov Chain (MCMC), a baysian modeling to predict parameters of medical insurance claim distribution.
 [check notebook link here](https://github.com/Shunling/Insight_HealthDataScience/blob/master/Bayesian_Inference.ipynb)
